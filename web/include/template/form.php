@@ -90,8 +90,7 @@ use PHPSimpleWebScraper\Utility\Utility;
             <div class="columns is-mobile">
                 <div class="column is-3 is-offset-9">
                     <p class="is-pulled-right">
-                        <a class="github-button" href="https://github.com/michaeluno/php-simple-web-scraper" data-size="large" data-show-count="true" aria-label="Star michaeluno/php-simple-web-scraper on GitHub">Star</a>
-                        <a class="github-button" href="https://github.com/michaeluno/php-simple-web-scraper/fork" data-size="large" data-show-count="true" aria-label="Fork michaeluno/php-simple-web-scraper on GitHub">Fork</a>
+                        <a class="github-button" href="https://github.com/TechonomicsInc" data-size="large" data-show-count="true" aria-label="Follow Techonomics on Github">Star</a>
                     </p>
                 </div>
             </div>
